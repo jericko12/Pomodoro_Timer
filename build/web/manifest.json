@@ -1,14 +1,19 @@
 {
-    "name": "pomodoro_timer",
-    "short_name": "pomodoro_timer",
+    "name": "Pomodoro Timer",
+    "short_name": "Pomodoro",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
     "description": "Timer app para sa focus sessions.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
+        {
+            "src": "assets/assets/images/app_logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
