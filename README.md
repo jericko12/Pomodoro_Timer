@@ -69,6 +69,6 @@ flutter run
 
 ## Credits
 
-Created by: [Your Name]
+Created by: Jericko Garcia
 
 Icons and design: Custom-created
